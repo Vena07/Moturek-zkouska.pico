@@ -26,5 +26,5 @@ while True:
 
         if button3.value() == 0:
             servo.deinit()
-        sleep(0.1)
+            sleep(0.1)
 
